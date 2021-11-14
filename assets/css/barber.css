@@ -1,0 +1,97 @@
+nav a {
+  font: 100% "Roboto", sans-serif;
+  font-size: 16px medium;
+  color: #fff;
+}
+
+nav div a img {
+  width: 120px;
+  height: auto;
+}
+
+.fondo-navbar {
+  background-color: #121619;
+}
+
+nav div a {
+  color: black;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 70px;
+  position: absolute;
+  top: 180px;
+  left: 25%;
+  width: 50%;
+  color: white;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  color: #6c6e70;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  color: #6c6e70;
+}
+
+.boton1 {
+  color: white;
+  display: inline-block;
+  padding: 0 2rem;
+  height: 2rem;
+  line-height: 2rem;
+  border-radius: 1rem;
+  text-decoration: none;
+  background-color: #6c6e70;
+  font-family: "Roboto", sans-serif;
+}
+.boton1:hover {
+  background-color: #d1d1d1;
+}
+
+.boton2 {
+  color: white;
+  display: inline-block;
+  padding: 0 2rem;
+  height: 2rem;
+  line-height: 2rem;
+  border-radius: 1rem;
+  text-decoration: none;
+  background-color: #6c6e70;
+  font-family: "Roboto", sans-serif;
+}
+.boton2:hover {
+  background-color: #d1d1d1;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+
+h4 {
+  font-family: "Roboto", sans-serif;
+  color: #d76c69;
+}
+
+.page-item.active .page-link {
+  color: #fff;
+  background-color: #6c6e70;
+  border-color: #6c6e70;
+}
+
+.page-link {
+  color: #222323;
+}
+
+.img-footer {
+  padding: 70px 0px 70px 0px;
+  text-align: center;
+  background: #222323;
+}
+
+/*# sourceMappingURL=barber.css.map */
