@@ -1,0 +1,37 @@
+$font-family: "Roboto", sans-serif;
+$primary-color: #fff;
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 70px;
+    position: absolute;
+    top: 180px;
+    left: 25%;
+    width: 50%;
+    color: white;
+}
+
+h5 {
+    font-family: "Roboto", sans-serif;
+    color: #6c6e70;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    color: #6c6e70; 
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+h4 {
+    font-family: "Roboto", sans-serif;
+    color: #d76c69;
+}
+
+a:hover {
+    color: #d76c69 !important;
+}
