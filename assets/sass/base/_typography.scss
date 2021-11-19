@@ -4,12 +4,20 @@ $primary-color: #fff;
 h1 {
     font-family: 'Playfair Display', serif;
     font-style: italic;
-    font-size: 70px;
     position: absolute;
-    top: 180px;
-    left: 25%;
-    width: 50%;
+    left: 0%;
+    width: 100%;
+    top: 70px;
+    font-size: 40px;
     color: white;
+
+    @media(min-width: 740px) {
+        font-size: 70px;
+        top: 110px;
+        left: 25%;
+        width: 50%;
+    }
+
 }
 
 h5 {
@@ -34,4 +42,15 @@ h4 {
 
 a:hover {
     color: #d76c69 !important;
+}
+
+.flecha {
+    top: 220px; 
+    position: absolute;
+    font-size: 2em !important;
+
+    @media (min-width: 740px) {
+        top: 480px;
+        font-size: 4em !important;
+    }
 }
